@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Una biblioteca para manejar archivos DXF en Ruby'
   spec.description   = 'RubyDXF es una gem para crear y manipular archivos DXF, similar a ezdxf en Python.'
-  spec.homepage      = 'https://github.com/Mauricio-26/Mauricio-26/blob/main/ruby_dxf/ruby_dxf-0.1.0.gem' # Reemplaza con la URL de tu proyecto, si tienes
+  spec.homepage      = 'https://github.com/Mauricio-26/Mauricio-26/blob/main/ruby_dxf/lib/ruby_dxf.rb' # Reemplaza con la URL de tu proyecto, si tienes
   spec.license       = 'MIT'
 
   spec.files         = Dir['lib/**/*', 'LICENSE', 'README.md']
